@@ -21,7 +21,7 @@ Note: All schematics may be slightly corrupted, thanks to the Create Mod's schem
 ### Tank
 - Schematic Name: penguintank_5.nbt
 - Version: 1.18.2 Forge
-- Mods Required: Create, Valkyrien Skies, Valkyrien Skies Tournament (Latest Dev Build Here: https://github.com/ConstantDust/VS_tournament-Vintage/releases/tag/v1.0.0-beta3-0.5), Create Big Cannons (Get the latest nightly forge 1.18.2 build from their discord server here: https://discord.gg/vgfMMUUgvT), Create Alloyed, and Create Crystal Clear.
+- Mods Required: Create, Valkyrien Skies, Valkyrien Skies Tournament (Latest Dev Build Here: https://github.com/ConstantDust/VS_tournament-Vintage/releases/tag/v1.0.0-beta3-0.5), Create Big Cannons (Get the latest nightly forge 1.18.2 build from their discord server here: https://discord.gg/vgfMMUUgvT), Create Alloyed, and Create Crystal Clear. [RECOMMENDED] Personality (it helps with getting around the tank)
 - Additional Notes:
   - You must break and rebuild the main cannon before trying to shoot it, or it will assemble incorrectly.
   - Some components such as redstone links or sequenced gearshift instructions make break upon assembly, i'm not sure why but this schematic is especially finicky.
