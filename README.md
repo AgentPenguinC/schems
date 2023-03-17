@@ -13,7 +13,7 @@ Note: All schematics may be slightly corrupted, thanks to the Create Mod's schem
 ### Tunnel Bore V2
 - Schematic Name: tunnel_bore_v2_3.nbt
 - Version: 1.18.2 Forge
-- Mods Required: Create, Valkyrien Skies, Valkyrien Skies Tournament (Latest Dev Build Here: https://github.com/ConstantDust/VS_tournament-Vintage/releases/tag/v1.0.0-beta3-0.5), Create: Alloyed, Create: Crystal Clear, Create: Deco, Create: Crafts and Additions, Create: Extended Flywheels Decorative Blocks, 'Dustrial Decor
+- Mods Required: Create, Valkyrien Skies, Valkyrien Skies Tournament (Latest Dev Build Here: https://github.com/ConstantDust/VS_tournament-Vintage/releases/tag/v1.0.0-beta3-0.5), Create: Alloyed, Create: Crystal Clear, Create: Deco, Create: Crafts and Additions, Create: Extended Flywheels, Decorative Blocks, 'Dustrial Decor
 - Additional Notes:
   - You will have to place belts on the shafts behind the wheels on assembly.
   - Some, if not all chain drives will be broken. There is nothing I can do about this.
