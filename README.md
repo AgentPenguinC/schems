@@ -43,3 +43,12 @@ Note: All schematics may be slightly corrupted, thanks to the Create Mod's schem
 - Additional Notes:
   - You must break and rebuild all cannons before trying to shoot it, or it will assemble incorrectly.
   - Upon assembling the truck, you will have to glue the back of the truck together again, because glue does not carry over upon assembling ships.
+
+### Dreadnought
+- Schematic Name: dreadnought_6.nbt
+- Version: 1.18.2 Forge
+- Mods Required: Create, Valkyrien Skies, Valkyrien Skies Tournament (Latest Dev Build Here: https://github.com/ConstantDust/VS_tournament-Vintage/releases/tag/v1.0.0-beta3-0.5), Create: Big Cannons, Create: Alloyed, Create: Crystal Clear, Create: Deco, Decorative Blocks, 'Dustrial Decor
+- Additional Notes:
+  - You must break and rebuild all cannons before trying to shoot them, or they will assemble incorrectly.
+  - Some logical parts of the ship may break upon assembly, such as the automatic reloading logic. If this happens, paste another schematic into your world of the ship and try replacing the broken parts on the assembled ship with their equivalents on the unassembled one.
+  - You will have to replace the belts on the sides of the ship once it is assembled, as they will be glitched.
