@@ -4,12 +4,12 @@ Create Mod Schematics by AgentPenguinC
 Note: All schematics may be slightly corrupted, thanks to the Create Mod's schematic system. Rotation of blocks or other NBT data may be incorrect, and need adjusting with a Debug Stick to Function. Also, in order to use any linked controllers or redstone links on Valkyrien Skies contraptions, make sure to edit the Create Mod config by going to Configure -> Gameplay Settings -> Logistics -> Link Range, and set it to 99999999. Check this video on a more detailed explanation: https://www.youtube.com/watch?v=2eMNtFEYBSk
 
 ### Current Schematics Listed:
-- Tunnel Bore V1
-- Tunnel Bore V2
-- Bomber Plane
-- Tank
-- Missile Truck
-- Dreadnought
+- [Tunnel Bore V1](https://github.com/AgentPenguinC/schems#tunnel-bore-v1)
+- [Tunnel Bore V2](https://github.com/AgentPenguinC/schems#tunnel-bore-v2)
+- [Bomber Plane](https://github.com/AgentPenguinC/schems#bomber-plane)
+- [Tank](https://github.com/AgentPenguinC/schems#tank)
+- [Missile Truck](https://github.com/AgentPenguinC/schems#missile-truck)
+- [Dreadnought](https://github.com/AgentPenguinC/schems#dreadnought)
 
 ### Tunnel Bore V1
 - Schematic Name: drill3.nbt
