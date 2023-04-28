@@ -20,7 +20,6 @@ VS Tournament:
 - Version: 1.18.2 Forge
 - Mods Required: Create, Valkyrien Skies, Valkyrien Skies Clockwork (Latest nightly in the clockwork-nightlies channel here: https://discord.gg/gmcn33deRz), Create: Big Cannons (Latest Nightly Here: https://discord.gg/vgfMMUUgvT), Create: Alloyed, Create: Deco, Decorative Blocks, 'Dustrial Decor
 - Additional Notes:
-  - For now, you MUST use the first version of clockwork in the VS discord server for this plane to work. The plane has been temporarily broken in the second patch. Once the third jar rolls around, that should work fine, I hope.
   - All other assembly steps are in the related video. Have fun!
 
 ### Tunnel Bore V1
