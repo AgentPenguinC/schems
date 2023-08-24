@@ -39,6 +39,7 @@ VS Tournament:
     - A/D: Turn left and right. It's helpful to press W after a turn to turn faster. Make sure to straighten yourself out, however.
     - Shift: Activate landing gear. When you're above where you want to land. Press shift once and hold down W until you land safely. Make sure to deactivate the gear once you've landed.
     - As you take off, tap S multiple times to prevent you from tipping backwards until you reach a suitable height to start moving forward.
+  - If you have any questions or need help setting things up, feel free to message @agentpenguinc on discord.
 
 ### Tunnel Bore V1
 - Schematic Name: drill3.nbt
