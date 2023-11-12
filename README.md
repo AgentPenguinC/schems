@@ -44,11 +44,11 @@ VS Tournament:
  
 ### Clockwork Tank Tutorial
 - Full Tank:
- - Schematic Name: chinchilla_mk2_2.nbt
- - Version: 1.18.2 Forge
+  - Schematic Name: chinchilla_mk2_2.nbt
+  - Version: 1.18.2 Forge
 - Armorless Tank:
- - Schematic Name: chinchillainnards1.nbt
- - Version: 1.18.2 Forge
+  - Schematic Name: chinchillainnards1.nbt
+  - Version: 1.18.2 Forge
 
 ### Tunnel Bore V1
 - Schematic Name: drill3.nbt
