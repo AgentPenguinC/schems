@@ -49,6 +49,7 @@ VS Tournament:
 - Armorless Tank:
   - Schematic Name: chinchillainnards1.nbt
   - Version: 1.18.2 Forge
+- Additional Note: The cannon featured in this video is made for Tank Tussle, where cannon failure is disabled in the CBC config. To use this cannon without disabling that config, simply add chambers and barrels until it functions properly.
 
 ### Tunnel Bore V1
 - Schematic Name: drill3.nbt
